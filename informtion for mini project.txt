@@ -1,0 +1,1 @@
+Image resolution : 940x640 (image res must be lesser or equal to this)
